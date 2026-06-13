@@ -1,5 +1,9 @@
 # Zombie Survival: The Last Survivor
 
+## Game Preview
+
+![Zombie Survival Gameplay](gameplay.png)
+
 ## About the Project
 
 Zombie Survival: The Last Survivor is a Python-based survival game developed as my final project for the Stanford Code in Place 2026 program.
